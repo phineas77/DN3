@@ -6,3 +6,8 @@ Na začetku sem definiral podatkovni tip ZacetniProblemNDE, ki predstavlja zače
 
 Potem sem dobljeni rezultat uporabil za iskanje periode funkcije. Funckija "find_period(t, y)" je uporabljena za iskanje prehodov skozi ničlo rešitve y in izračun obdobij med temi prehodi. Da bi dobili občutek danega limitnega cikla, na sliki lahko vidimo graf v fazni ravnini:
 
+<img src="./fazni.svg">
+
+<img src="./Resitevdif.svg">
+
+
